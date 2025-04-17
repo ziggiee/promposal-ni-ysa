@@ -73,7 +73,7 @@ export default function Home()
       <CornyQuestion 
         question="Would you be the Amy to my Jake?"
         nonactive="https://loudbooru.com/_images/a1c2fa54153d30da1045a967fe8fd8a9/9228%20-%20character%3Alincoln_loud%20character%3Athe_red_guy%20cow_and_chicken%20crossover%20devil%20dialogue%20satan.png"
-        active="https://www.imdb.com/title/tt8090936/mediaviewer/rm794509824/?ref_=tt_ov_i"
+        active="https://ibb.co/sd49fCn9"
         secondary
         right
       />
