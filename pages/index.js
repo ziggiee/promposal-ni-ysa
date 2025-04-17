@@ -72,8 +72,8 @@ export default function Home()
 
       <CornyQuestion 
         question="Would you be the Amy to my Jake?"
-        nonactive=""
-        active=""
+        nonactive="https://i.ibb.co/C3yKc6gK/download.jpg" 
+        active="https://i.ibb.co/C3yKc6gK/download.jpg"
         secondary
         right
       />
