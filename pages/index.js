@@ -80,8 +80,8 @@ export default function Home()
 
       <CornyQuestion 
         question="Would you be the essays to my solutions?"
-        nonactive=""
-        active=""
+        nonactive="https://i.ibb.co/0pJBKy2M/66b3e5d0c2ab246786ca1d5e-86.png"
+        active="https://i.ibb.co/0pJBKy2M/66b3e5d0c2ab246786ca1d5e-86.png"
         primary
         left
       />
